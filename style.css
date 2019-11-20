@@ -1,0 +1,41 @@
+BODY {
+	scrollbar-face-color: #397D18;
+	scrollbar-3dlight-color: #000000;
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-arrow-color: #102307;
+	scrollbar-track-color: #102307;
+
+
+
+
+
+
+
+
+
+A  {
+	color : #90E765;
+	text-decoration : underline;
+	background: none;
+	background: none;
+	background: none;
+	background: none;
+	background: none;
+	color: inherit;
+}
+	tr{float: right;}
+
+A:Visited  {
+	color : #90E765;
+	text-decoration : underline;
+}
+
+A:Active  {
+	color :#90E765;
+	text-decoration : underline;
+}
+A:Hover  {
+	color : #000000;
+	text-decoration : none;
+	background-color:#90E765;
+}
