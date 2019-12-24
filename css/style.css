@@ -5,13 +5,11 @@ BODY {
 	scrollbar-arrow-color: #102307;
 	scrollbar-track-color: #102307;
 
-
-
-
-
-
-
-
+	<style>
+    img.a {
+        max-height: 360px;
+    }
+</style>
 
 A  {
 	color : #90E765;
@@ -23,8 +21,8 @@ A  {
 	background: none;
 	color: inherit;
 }
-	tr{float: right;}
 
+	
 A:Visited  {
 	color : #90E765;
 	text-decoration : underline;
