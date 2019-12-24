@@ -11,29 +11,5 @@ BODY {
     }
 </style>
 
-A  {
-	color : #90E765;
-	text-decoration : underline;
-	background: none;
-	background: none;
-	background: none;
-	background: none;
-	background: none;
-	color: inherit;
-}
-
-	
-A:Visited  {
-	color : #90E765;
-	text-decoration : underline;
-}
-
-A:Active  {
-	color :#90E765;
-	text-decoration : underline;
-}
-A:Hover  {
-	color : #000000;
-	text-decoration : none;
-	background-color:#90E765;
+@media (min-width: 1056px){
 }
