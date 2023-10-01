@@ -1,15 +1,42 @@
+
 BODY {
 	scrollbar-face-color: #397D18;
 	scrollbar-3dlight-color: #000000;
 	scrollbar-darkshadow-color: #000000;
 	scrollbar-arrow-color: #102307;
 	scrollbar-track-color: #102307;
-
-	<style>
+	background-color: #0D1F08;
+}
     img.a {
         max-height: 360px;
-    }
-</style>
+}
+	
+a.playing {
+	color: #FFFFFF;
+    text-decoration: none;
+    background-color: #000276;
+}
 
-@media (min-width: 1056px){
+a:link  {
+	color : #3B6EFF;
+	text-decoration: underline;
+}	
+
+a:visited  {
+	color : #3B6EFF;
+	text-decoration : underline;
+}
+
+a:hover  {
+	color : #FD009D;
+	text-decoration : none;
+	background-color:#000276;
+}
+
+a:active {
+	color: #FF0000;
+}
+
+p:link {
+	color:aliceblue;
 }
